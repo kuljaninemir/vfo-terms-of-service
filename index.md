@@ -1,6 +1,4 @@
-## Terms of Service
-
-**Vampire's Fall Origins Terms of Service**
+## Vampire's Fall Origins Terms of Service
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Vampire's Fall Origins mobile application (the "Service") operated by Emir Kuljanin, Kristian Andersson and Julijana Mijailovic ("us", "we", or "our").
 
