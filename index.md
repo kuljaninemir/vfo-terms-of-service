@@ -1,6 +1,6 @@
 ## Vampire's Fall Origins Terms of Service
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Vampire's Fall Origins mobile application (the "Service") operated by Emir Kuljanin, Kristian Andersson and Julijana Mijailovic ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Vampire's Fall Origins mobile application (the "Service") operated by Early Morning Studio AB ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
@@ -26,4 +26,4 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 **Contact Us**
 
-If you have any questions about these Terms, please contact us at vampiresfall@gmail.com.
+If you have any questions about these Terms, please contact us at support@earlymorningstudio.com.
