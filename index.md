@@ -10,6 +10,8 @@ By accessing or using the Service you agree to be bound by these Terms. If you d
 
 Our Service allows you to post, share and otherwise make available certain text, or other material ("Content") in the in-game chat. You are responsible for abiding to our chat rules, as stated in-game. We reserve the right, at our sole discretion, to remove any in-game messages. We reserve the right to prevent you from writing messages if you do not abide by the Chat Rules.
 
+Early Morning Studio does not take responsibility for any player-created content, including but not limited to chat messages, player names, clan names, clan banners. Early Morning Studio will make reasonable best-effort attempts to clean up player-created content that is offensive or breaks our Terms.
+
 By using our Service, you agree to not use cheats, exploits, automation software, bots, hacks, mods or any unauthorized third-party software designed to modify or interfere with the Service. Additionally, you agree to not sell or give away your account to other players.
 
 We reserve the right to prevent you from interacting with other players if you break the Terms, independant if you made in-app-purchases or not.
