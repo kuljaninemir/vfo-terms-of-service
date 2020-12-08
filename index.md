@@ -14,7 +14,7 @@ By using our Service, you agree to not use cheats, exploits, automation software
 
 We reserve the right to prevent you from interacting with other players if you break the Terms, independant if you made in-app-purchases or not.
 
-We reserve our right to, for whatever reason, stop a player from participating in PvP.
+We reserve our right to, for whatever reason, stop a player from utilizing our online functionality, including but not limited to PvP.
 
 **Links To Other Web Sites**
 
