@@ -1,4 +1,4 @@
-## Vampire's Fall Origins Terms of Service
+## Vampire's Fall: Origins - Terms of Service
 
 # Terms of Service
 
